@@ -12,7 +12,3 @@ wheels/
 # Generated data exports
 *.csv
 *.xlsx
-*.pdf
-*.html
-*.jpg
-*.jpeg
