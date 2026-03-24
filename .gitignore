@@ -13,3 +13,6 @@ wheels/
 *.csv
 *.xlsx
 *.pdf
+*.html
+*.jpg
+*.jpeg
